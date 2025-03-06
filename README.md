@@ -58,5 +58,5 @@ This project is open-source. Feel free to use and modify it as needed.
  Contact
 For any inquiries or contributions, reach out via:
 - Email: srijan1419@gmail.com
-- GitHub: 
+- GitHub: https://github.com/Srijan1419
 
